@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: GameID-47_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 87e5dfcb7f87a324b992ac01c0217454, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 589522657280
+    m_Localized: Shoulder rotation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 176060751872
+    m_Localized: The shoulder rotation coin capture game involves keeping one's elbow
+      a fixed to their side and rotating the arm to the side. The benefit of the
+      shoulder rotation coin capture game is that it strengthens the shoulder muscles
+      and improves shoulder Mobilit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 437999230976
+    m_Localized: Shoulder Coin Capture
+    m_Metadata:
+      m_Items: []
+  - m_Id: 512217440256
+    m_Localized: Move one shoulder up  slowly  to move that direction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 475569507131392
+    m_Localized: en
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

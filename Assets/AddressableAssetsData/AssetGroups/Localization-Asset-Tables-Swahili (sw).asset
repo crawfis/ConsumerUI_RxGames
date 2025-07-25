@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Asset-Tables-Swahili (sw)
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Localization-Asset-Tables-Swahili (sw)
+  m_GUID: 7a8b7e13c7f38bd4486e74f965a8198c
+  m_SerializeEntries:
+  - m_GUID: 3e274daec1d03394dbeaf1b81b6e2714
+    m_Address: MainMenuFonts_sw
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-sw
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 24bf35b4d0d5123489f20d2f9bad95e4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c9d3b8dfaef269a4180c756f78408e61, type: 2}
+    - {fileID: 11400000, guid: 8add122393a093749976c75773cff59e, type: 2}

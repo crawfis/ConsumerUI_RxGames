@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: MainMenuStrings Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: MainMenuStrings
+  m_TableCollectionNameGuidString: ef228d785b1961a4e8a8e0eb148633e0
+  m_Entries:
+  - m_Id: 29377552384
+    m_Key: LANG_ID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56439201792
+    m_Key: WorkoutsBtn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29398523904
+    m_Key: OptionsBtn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29398523905
+    m_Key: TutorialsBtn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29398523906
+    m_Key: PlayBtn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29398523907
+    m_Key: QuitBtn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29398523908
+    m_Key: BackBtn
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7689176678740787200
+  references:
+    version: 2
+    RefIds:
+    - rid: 7689176678740787200
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1753130340043

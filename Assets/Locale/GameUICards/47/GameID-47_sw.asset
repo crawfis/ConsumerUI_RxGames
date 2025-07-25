@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: GameID-47_sw
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: sw
+  m_SharedData: {fileID: 11400000, guid: 87e5dfcb7f87a324b992ac01c0217454, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 437999230976
+    m_Localized: Shoulder Coin Capture
+    m_Metadata:
+      m_Items: []
+  - m_Id: 176060751872
+    m_Localized: Mchezo wa kukamata sarafu ya mzunguko wa bega unahusisha kuweka
+      kiwiko cha mtu kwa upande wake na kuzungusha mkono kwa upande. Faida ya mchezo
+      wa kukamata sarafu ya mzunguko wa bega ni kwamba huimarisha misuli ya bega
+      na inaboresha bega Mobilit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 512217440256
+    m_Localized: Sogeza bega moja juu polepole ili kusonga mwelekeo huo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 589522657280
+    m_Localized: Mzunguko wa bega
+    m_Metadata:
+      m_Items: []
+  - m_Id: 475569507131392
+    m_Localized: sw
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

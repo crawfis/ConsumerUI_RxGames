@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: GameID-47_zh-Hans
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: zh-Hans
+  m_SharedData: {fileID: 11400000, guid: 87e5dfcb7f87a324b992ac01c0217454, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 437999230976
+    m_Localized: Shoulder Coin Capture
+    m_Metadata:
+      m_Items: []
+  - m_Id: 176060751872
+    m_Localized: "\u80A9\u90E8\u65CB\u8F6C\u786C\u5E01\u6355\u6349\u6E38\u620F\u5305\u62EC\u5C06\u8098\u90E8\u56FA\u5B9A\u5728\u8EAB\u4F53\u4E00\u4FA7\u5E76\u5C06\u624B\u81C2\u65CB\u8F6C\u5230\u4E00\u4FA7\u3002\u80A9\u90E8\u65CB\u8F6C\u786C\u5E01\u6355\u83B7\u6E38\u620F\u7684\u597D\u5904\u662F\u5B83\u53EF\u4EE5\u589E\u5F3A\u80A9\u90E8\u808C\u8089\u5E76\u63D0\u9AD8\u80A9\u90E8\u79FB\u52A8\u80FD\u529B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 512217440256
+    m_Localized: "\u6162\u6162\u5411\u4E0A\u79FB\u52A8\u4E00\u4E2A\u80A9\u8180\u4EE5\u79FB\u52A8\u8BE5\u65B9\u5411"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 589522657280
+    m_Localized: "\u80A9\u90E8\u65CB\u8F6C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 475569507131392
+    m_Localized: zh-Hans
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

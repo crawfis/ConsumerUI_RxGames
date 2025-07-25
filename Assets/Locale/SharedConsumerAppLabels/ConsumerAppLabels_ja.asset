@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ConsumerAppLabels_ja
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: ja
+  m_SharedData: {fileID: 11400000, guid: 6b4122e4550bbff47a149bbc4b8bc993, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 7689176558263337597
+  m_TableData:
+  - m_Id: 13195927552
+    m_Localized: "\u5F62\u5BB9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 97455300608
+    m_Localized: "\u30BB\u30E9\u30D4\u30FC\u30CE\u30FC\u30C8"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 161653317632
+    m_Localized: "\u6F14\u7FD2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 219698290688
+    m_Localized: "\u30C1\u30E5\u30FC\u30C8\u30EA\u30A2\u30EB"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359825793024
+    m_Localized: "\u6240\u8981\u6642\u9593:{0}\u5206"
+    m_Metadata:
+      m_Items:
+      - rid: 7689176558263337597
+  - m_Id: 408328724480
+    m_Localized: "# \u30BB\u30C3\u30C8"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3642938220544
+    m_Localized: ja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 482089900826624
+    m_Localized: "\u30ED\u30C3\u30AF \u89E3\u9664"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 482157856940032
+    m_Localized: "\u6240\u8981\u6642\u9593:{0}\u5206"
+    m_Metadata:
+      m_Items:
+      - rid: 7689176558263337597
+  - m_Id: 483874367463424
+    m_Localized: "\u30D2\u30F3\u30C8:\u3053\u306E\u30B2\u30FC\u30E0\u3092\u7121\u52B9\u306B\u3059\u308B\u306B\u306F\u30010\u306B\u8A2D\u5B9A\u3057\u307E\u3059\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 484966195126272
+    m_Localized: "\u3053\u306E\u30B2\u30FC\u30E0\u306E\u9069\u5207\u306A\u30A8\u30AF\u30B5\u30B5\u30A4\u30BA\u306B\u3064\u3044\u3066\u306F\u3001\u4EE5\u4E0B\u306E\u30EA\u30F3\u30AF\u3092\u53C2\u7167\u3057\u3066\u304F\u3060\u3055\u3044\u3002"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 7689176558263337597
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 359825793024
+        - id: 482157856940032

@@ -1,0 +1,47 @@
+<UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="game-ui-card" style="flex-grow: 1; width: 100%; height: 100%; flex-direction: row; flex-shrink: 1;">
+        <ui:VisualElement name="game-demo" style="flex-grow: initial; align-items: center; justify-content: center; align-self: auto; align-content: auto; padding-top: 40px; padding-right: 40px; padding-bottom: 40px; padding-left: 40px; width: 50%; flex-shrink: initial; background-color: rgba(200, 100, 0, 0); min-width: 50%; max-width: 50%; min-height: 100%; max-height: 100%; -unity-background-image-tint-color: rgba(0, 0, 0, 0); -unity-background-scale-mode: scale-to-fit;">
+            <ui:VisualElement name="game-demo-image" enabled="false" style="background-image: url(&quot;project://database/Assets/Media/GameScreenShots/CatDash37.png?fileID=21300000&amp;guid=a06683e21638c504d828a6f402316094&amp;type=3#CatDash37&quot;); -unity-background-scale-mode: scale-to-fit; background-color: rgba(255, 255, 255, 0); width: 100%; height: 100%; opacity: 1;" />
+        </ui:VisualElement>
+        <ui:VisualElement name="game-details" picking-mode="Ignore" style="flex-grow: initial; padding-top: 40px; padding-right: 40px; padding-bottom: 40px; padding-left: 40px; flex-shrink: initial; width: 50%;">
+            <ui:Label text="Exercise Dash" name="game-title-label" picking-mode="Ignore" style="font-size: 42px; -unity-font-style: bold-and-italic; color: rgb(255, 255, 255); -unity-text-align: upper-center;" />
+            <ui:Label text="Unlocked" name="game-locked-label" picking-mode="Ignore" style="font-size: 24px; color: rgb(250, 182, 22); -unity-text-align: upper-center;" />
+            <ui:Label text="This is a very long description of the game, it&apos;s mechanics and the various exercises needed to perform them. It also can include any therapy notes and / or game hints." name="game-description-label" display-tooltip-when-elided="false" picking-mode="Ignore" style="color: rgb(255, 255, 255); border-left-color: rgb(255, 255, 255); border-top-color: rgb(255, 255, 255); border-right-color: rgb(255, 255, 255); border-bottom-color: rgb(255, 255, 255); font-size: 24px; white-space: normal; border-top-width: 2px; border-right-width: 2px; border-bottom-width: 2px; border-left-width: 2px; border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; padding-right: 8px; padding-left: 8px; padding-top: 8px; padding-bottom: 8px;" />
+            <ui:Label text="This is a very long description of the game, it&apos;s mechanics and the various exercises needed to perform them. It also can include any therapy notes and / or game hints." name="therapy-label" display-tooltip-when-elided="false" picking-mode="Ignore" style="color: rgb(255, 255, 255); border-left-color: rgb(255, 255, 255); border-top-color: rgb(255, 255, 255); border-right-color: rgb(255, 255, 255); border-bottom-color: rgb(255, 255, 255); font-size: 24px; white-space: normal; border-top-width: 2px; border-right-width: 2px; border-bottom-width: 2px; border-left-width: 2px; border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; padding-right: 8px; padding-left: 8px; padding-top: 8px; padding-bottom: 8px;" />
+            <ui:Label text="Exercises&lt;br&gt;  * Squat&lt;br&gt;  * Hip Abduction&lt;br&gt;  * Arm Raise" name="game-exercise-list-label" display-tooltip-when-elided="false" picking-mode="Ignore" style="color: rgb(255, 255, 255); border-left-color: rgb(255, 255, 255); border-top-color: rgb(255, 255, 255); border-right-color: rgb(255, 255, 255); border-bottom-color: rgb(255, 255, 255); font-size: 34px; white-space: normal; border-top-width: 0; border-right-width: 0; border-bottom-width: 0; border-left-width: 0; border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px;" />
+            <ui:Label text="Duration" name="duration-label" style="font-size: 24px; color: rgb(255, 255, 255); padding-bottom: 10px;">
+                <Bindings>
+                    <UnityEngine.Localization.LocalizedString property="text" table="GUID:6b4122e4550bbff47a149bbc4b8bc993" entry="Id(359825793024)">
+                        <variables>
+                            <UnityEngine.Localization.LocalVariable name="duration">
+                                <UnityEngine.Localization.SmartFormat.PersistentVariables.IntVariable value="3" />
+                            </UnityEngine.Localization.LocalVariable>
+                        </variables>
+                    </UnityEngine.Localization.LocalizedString>
+                </Bindings>
+            </ui:Label>
+            <ui:SliderInt label="# of Sets" value="1" high-value="5" name="game-duration-slider" low-value="1" style="opacity: 0.2; font-size: 24px; background-color: rgb(255, 255, 255); display: none;" />
+            <ui:SliderInt label="# of Sets" value="1" high-value="5" name="game-sets-slider" low-value="0" fill="true" show-input-field="true" tabindex="1" style="opacity: 1; font-size: 24px; background-color: rgb(173, 172, 172); color: rgb(0, 0, 0); visibility: visible; display: flex; overflow: visible; border-top-color: rgb(0, 0, 0); border-left-color: rgb(0, 0, 0); border-bottom-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); border-top-width: 3px; border-right-width: 3px; border-bottom-width: 3px; border-left-width: 3px; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; padding-top: 5px; padding-right: 5px; padding-bottom: 5px; padding-left: 5px;">
+                <Bindings>
+                    <UnityEngine.Localization.LocalizedString property="label" table="GUID:6b4122e4550bbff47a149bbc4b8bc993" entry="Id(408328724480)" />
+                </Bindings>
+            </ui:SliderInt>
+            <ui:Label text="Hint: Set to zero to disable this game" name="set-hint-label" style="color: rgb(200, 197, 197); -unity-font-style: italic; -unity-text-align: upper-left; font-size: 24px; margin-top: 10px; margin-right: 10px; margin-bottom: 10px; margin-left: 10px; padding-left: 30px; padding-bottom: 20px; padding-right: 4px;">
+                <Bindings>
+                    <UnityEngine.Localization.LocalizedString property="text" table="GUID:6b4122e4550bbff47a149bbc4b8bc993" entry="Id(483874367463424)" />
+                </Bindings>
+            </ui:Label>
+            <ui:Label text="See the link(s) below for proper exercises for this game." style="font-size: 24px; color: rgb(255, 255, 255); -unity-font-style: italic;">
+                <Bindings>
+                    <UnityEngine.Localization.LocalizedString property="text" table="GUID:6b4122e4550bbff47a149bbc4b8bc993" entry="Id(484966195126272)" />
+                </Bindings>
+            </ui:Label>
+            <ui:Label text="Tutorials" focusable="true" tabindex="1" double-click-selects-word="true" selectable="true" name="game-tutorial-label" tooltip="Opens external browser " style="background-color: rgba(76, 97, 255, 0); font-size: 32px; color: rgb(42, 124, 255);" />
+            <ui:Button text="Back" name="back-button" style="font-size: 48px; background-color: rgb(214, 166, 54); -unity-text-outline-width: 0; -unity-text-outline-color: rgb(159, 118, 22); border-left-color: rgb(140, 99, 5); border-right-color: rgb(140, 99, 5); border-top-color: rgb(140, 99, 5); border-bottom-color: rgb(140, 99, 5); border-top-width: 2px; border-right-width: 2px; border-bottom-width: 2px; border-left-width: 2px; border-top-left-radius: 30px; border-top-right-radius: 30px; border-bottom-right-radius: 30px; border-bottom-left-radius: 30px; width: auto; align-self: flex-end; -unity-font-style: bold; color: rgb(29, 49, 120); justify-content: flex-start; align-content: center; margin-top: auto; margin-left: 4px; margin-right: 40px; margin-bottom: 10px; min-width: 200px;">
+                <Bindings>
+                    <UnityEngine.Localization.LocalizedString property="text" table="GUID:ef228d785b1961a4e8a8e0eb148633e0" entry="Id(29398523908)" />
+                </Bindings>
+            </ui:Button>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</UXML>

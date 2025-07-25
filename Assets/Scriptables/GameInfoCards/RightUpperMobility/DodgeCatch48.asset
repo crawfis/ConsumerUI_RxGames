@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04ab900666ff3a344a24115c48dd0e34, type: 3}
+  m_Name: DodgeCatch48
+  m_EditorClassIdentifier: Assembly-CSharp::RxGames.ConsumerApps.GameInfoScriptableObject
+  GameId: 13
+  GameImage: {fileID: 21300000, guid: 310b2844931cfff46a1643f506915ea6, type: 3}
+  Duration: 45
+  NumberOfSets: 5
+  TutorialUrl: https://www.youtube.com/watch?v=B2I8O2cJo8Q&list=PLfyyxt88AocOo6XU0yt0GyhWhrUSyWOFl&index=2
+  GameImagePath: GameImage.01

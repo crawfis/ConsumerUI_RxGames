@@ -87,12 +87,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - Locale
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: aba9173feb2a30747af838cb6a556ad6
-    m_Address: Danish (da)
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f32511730ca643548aed1d96e6e01b4c
     m_Address: Hindi (hi)
     m_ReadOnly: 1

@@ -1,0 +1,54 @@
+/* Base button styling */
+.button {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+    /* Spacing */
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+
+    /* Visuals */
+    border-radius: 6px;
+    border-width: 1px;
+    border-color: #333;
+    background-color: #1e90ff; /* default blue */
+    color: white;
+
+    /* Allow button to resize in flex layouts */
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: auto;
+}
+
+/* Button label text */
+.button-label {
+    font-size: 2.5vw;        /* scales with screen width */
+    white-space: nowrap;     /* prevent breaking */
+    text-align: center;
+    unity-font-style: normal;
+    unity-text-align: middle-center;
+}
+
+/* Variants */
+.button.primary {
+    background-color: #1e90ff;
+    color: white;
+}
+
+.button.secondary {
+    background-color: #f0f0f0;
+    color: #222;
+}
+
+/* Hover/active (if runtime theme supports pseudo-classes) */
+.button:hover {
+    background-color: #187bcd;
+}
+
+.button:active {
+    background-color: #145a96;
+}

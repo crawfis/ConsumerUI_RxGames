@@ -1,31 +1,32 @@
 <ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
-    <ui:VisualElement name="VisualElement" style="flex-grow: 0; align-items: auto; align-self: flex-end; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; flex-shrink: 0; width: 100%; height: auto;">
+    <Style src="project://database/Assets/UI%20Toolkit/ConsumerApp/Buttons.uss?fileID=7433441132597879392&amp;guid=12350e038c382b949b84834fd2b25c7f&amp;type=3#Buttons" />
+    <ui:VisualElement name="VisualElement" style="flex: 1, 1, 0; align-items: auto; align-self: flex-end; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; flex-shrink: 0; width: 100%; height: auto;">
         <ui:DropdownField name="locale-selection-dropdown" index="2" choices="English (en),Arabic (ar),Chinese (zh-Hans),French (fr),German (de),Hindi (hi),Japanese (ja),Portuguese (pt),Russian (ru),Spanish (es),Swahili (sw)" style="font-size: 32px; margin-top: 40px; margin-right: 200px; min-width: 25%; border-top-width: 10px; border-right-width: 10px; border-bottom-width: 10px; border-left-width: 10px; border-top-left-radius: 60px; border-top-right-radius: 60px; border-bottom-right-radius: 60px; border-bottom-left-radius: 60px; flex-grow: 1; flex-shrink: 1;" />
     </ui:VisualElement>
-    <ui:VisualElement picking-mode="Ignore" style="flex-grow: 1; justify-content: center; align-self: center; align-content: center; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; margin-top: 0; margin-right: 20px; margin-bottom: 20px; margin-left: 20px;">
-        <ui:Button text="Workouts" name="prescription-button" style="font-size: 48px; -unity-font-style: bold; background-size: 500px 200px; margin-top: 2px; padding-right: 120px; padding-left: 120px;">
+    <ui:VisualElement picking-mode="Ignore" style="flex-grow: 1; justify-content: center; align-self: stretch; align-content: stretch; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; margin-top: 0; margin-right: 20px; margin-bottom: 20px; margin-left: 20px; max-width: 90%; width: 90%; height: 90%;">
+        <ui:Button text="Workouts" name="prescription-button" style="-unity-font-style: bold; background-size: margin-top 2px; flex: 1, 0, auto; align-self: stretch; font-size: 90%;">
             <Bindings>
                 <UnityEngine.Localization.LocalizedString property="text" table="GUID:ef228d785b1961a4e8a8e0eb148633e0" entry="Id(56439201792)" />
                 <UnityEngine.Localization.LocalizedFont property="style.unityFontDefinition" table="GUID:a261158b8f2c8f44291f30cd296d445c" entry="Id(20326244352)" update-trigger="WhenDirty" />
             </Bindings>
         </ui:Button>
-        <ui:Button text="Tutorials" name="tutorials-button" style="font-size: 48px; -unity-font-style: bold; background-size: 500px 200px; margin-top: 40px; flex-grow: 0;">
+        <ui:Button text="Tutorials" name="tutorials-button" style="-unity-font-style: bold; background-size: margin-top 40px; flex: 1, 0, auto; align-self: stretch; font-size: 90%;">
             <Bindings>
                 <UnityEngine.Localization.LocalizedString property="text" table="GUID:ef228d785b1961a4e8a8e0eb148633e0" entry="Id(29398523904)" />
             </Bindings>
         </ui:Button>
-        <ui:Button text="Options" name="options-button" style="font-size: 48px; -unity-font-style: bold; background-size: 500px 200px; margin-top: 40px; flex-grow: 0;">
+        <ui:Button text="Options" name="options-button" style="-unity-font-style: bold; margin-top: 40px; flex: 1, 1, 0; align-self: stretch; font-size: 90%;">
             <Bindings>
                 <UnityEngine.Localization.LocalizedString property="text" table="GUID:ef228d785b1961a4e8a8e0eb148633e0" entry="Id(29398523905)" />
             </Bindings>
         </ui:Button>
-        <ui:Button text="Play" name="play-button" style="font-size: 64px; -unity-font-style: bold; background-size: 700px 200px; margin-top: 50px; flex-grow: 0; color: rgb(0, 0, 255); background-color: rgb(219, 155, 3); border-top-left-radius: 50px; border-top-right-radius: 50px; border-bottom-right-radius: 50px; border-bottom-left-radius: 50px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-left-color: rgb(171, 0, 0); border-right-color: rgb(171, 0, 0); border-top-color: rgb(171, 0, 0); border-bottom-color: rgb(171, 0, 0); min-width: 300px;">
+        <ui:Button text="Play" name="play-button" style="-unity-font-style: bold; margin-top: 50px; flex: 1, 1, 0; color: rgb(0, 0, 255); background-color: rgb(219, 155, 3); border-top-left-radius: 50px; border-top-right-radius: 50px; border-bottom-right-radius: 50px; border-bottom-left-radius: 50px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-left-color: rgb(171, 0, 0); border-right-color: rgb(171, 0, 0); border-top-color: rgb(171, 0, 0); border-bottom-color: rgb(171, 0, 0); min-width: 300px; align-self: stretch; font-size: 90%;">
             <Bindings>
                 <UnityEngine.Localization.LocalizedFont property="style.unityFontDefinition" table="GUID:a261158b8f2c8f44291f30cd296d445c" entry="Id(20326244352)" />
                 <UnityEngine.Localization.LocalizedString property="text" table="GUID:ef228d785b1961a4e8a8e0eb148633e0" entry="Id(29398523906)" />
             </Bindings>
         </ui:Button>
-        <ui:Button text="Quit" name="quit-button" style="font-size: 48px; -unity-font-style: bold; background-size: 500px 200px; margin-top: 40px; flex-grow: 0;">
+        <ui:Button text="Quit" name="quit-button" style="-unity-font-style: bold; margin-top: 60px; flex: 1, 1, 0; align-self: stretch; font-size: 100%;">
             <Bindings>
                 <UnityEngine.Localization.LocalizedString property="text" table="GUID:ef228d785b1961a4e8a8e0eb148633e0" entry="Id(29398523907)" />
                 <UnityEngine.Localization.LocalizedFont property="style.unityFontDefinition" table="GUID:a261158b8f2c8f44291f30cd296d445c" entry="Id(20326244352)" />

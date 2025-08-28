@@ -14,7 +14,714 @@ MonoBehaviour:
   m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
   m_GroupName: Default Local Group
   m_GUID: 5599b629649ad9b4a87bce7cc6459fba
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 01d0de826e7dfed4e9d26d1239f598f8
+    m_Address: Assets/Font/Noto/Noto_Sans_KR/static/NotoSansKR-ExtraBold.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02ca386c8a7c6424a9643c9167d9cdb0
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_Condensed-Italic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 08d03409d5f12104e9a4ba24b8204b72
+    m_Address: Assets/Font/Noto/Noto_Sans_TC/static/NotoSansTC-SemiBold.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 09be4ceadff73ab4bbcd7cc71ae46739
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_Condensed-Medium.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a02d22108f7959469525900025572a3
+    m_Address: Assets/Font/Noto/Noto_Sans_TC/static/NotoSansTC-Regular.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d3de2555d6b86e4db360a219f6c3fd5
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans-Black.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12e76a274f1ad8f458d7b5429204ad46
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/static/NotoSansArabic_SemiCondensed-Bold.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 13fe7117687e8774b88d4e340c83acb4
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_SemiCondensed-Black.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17e90ca721c9332418017c9fbdf9eec6
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/static/NotoSansArabic_Condensed-ExtraBold.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b28afbbbb1d8244885d727051d1837d
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/static/NotoSansArabic_SemiCondensed-Medium.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c04ebed9787b6c488e26710d52f470e
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans-Bold.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c1a5184cf2c8bd46b7978c2acfabadd
+    m_Address: Assets/Font/Noto/Noto_Sans_JP/static/NotoSansJP-ExtraBold.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1cbfa8237eef1fd4c8f6fe189d842935
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_ExtraCondensed-Black.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 205c48e427928824f979d3dc72f742c9
+    m_Address: Assets/Font/Noto/Noto_Sans_KR/static/NotoSansKR-ExtraLight.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 231124d9c8cf2e94787cdef798754a0d
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/static/NotoSansArabic_Condensed-ExtraLight.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 278200a1f199b3b478ebe53861a84e25
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_Condensed-MediumItalic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 27c1f892057361d47ba6f2dc89e269fd
+    m_Address: Assets/Font/Noto/Noto_Sans_TC/static/NotoSansTC-ExtraLight.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 29a90501f8031ad498bfcd76025f908a
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/static/NotoSansArabic_ExtraCondensed-ExtraLight.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2cf7eea3806c1ca408bc0ae121fa316e
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/static/NotoSansArabic-Medium.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ecfeaa30a4df3a4d8af85fe59039390
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_Condensed-Bold.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30e8dd22b65c7bd4ebe82b54ea7e6560
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans-Thin.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 356c3b2347810b64e99eed3d42a5524b
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans-ThinItalic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35e68dd0105310544b2b49b671b68762
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/static/NotoSansArabic-ExtraBold.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35e95969ee263a54ababcd7ea4bd5923
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans-Medium.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35ff2196a90ed5542b5ceca45bc97433
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/static/NotoSansArabic_SemiCondensed-ExtraBold.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 390af4c5918a1ee41a55905558921f55
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_SemiCondensed-Regular.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a521963be880f943a432b12de408bc5
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans-Regular.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3dfe67217cf5dff40bafd85161a77c5d
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_ExtraCondensed-Thin.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 413e515749da08948a06a16d1c37c830
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans-Italic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41cd003643b2eeb4281e4e181b88e1bd
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_ExtraCondensed-ThinItalic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 431464d6952007740874483737a165c2
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_Condensed-LightItalic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 434e6f2469641274abb27c442d61f2bb
+    m_Address: Assets/Font/Noto/Noto_Sans_KR/static/NotoSansKR-Medium.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4978a4dcb848e2e4bb5122a319d15c1c
+    m_Address: Assets/Font/Noto/Noto_Sans_JP/static/NotoSansJP-Bold.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a2f91e6313480747b1eee242a3ddc85
+    m_Address: Assets/Font/Noto/Noto_Sans_JP/static/NotoSansJP-Thin.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50e175dfe5a7eff458b1e94821660c8a
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_ExtraCondensed-SemiBoldItalic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5441b63e736e5dd42944296a139253ad
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans-ExtraLight.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54a0814d2aca9d949b20a113dd6e9de7
+    m_Address: Assets/Font/Noto/Noto_Sans_TC/static/NotoSansTC-ExtraBold.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 55bd5f7a786e5bf43b8f1e33734b07a0
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_SemiCondensed-Medium.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5699c6cdef6f62b4fbaef56063c1a5c6
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans-MediumItalic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57d08e53b6cec604f8fa4e4cbea0bc63
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans-SemiBoldItalic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59b6a715daf880d4388863c40a3cdc0c
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans-BlackItalic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b6fd0b63a6b48c42972759e68542684
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_SemiCondensed-BlackItalic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d426f6fea7f071439042c8be143f41e
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/static/NotoSansArabic_Condensed-Thin.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d843b3d983169b4fae84f4f6a291897
+    m_Address: Assets/Font/Noto/Noto_Sans_TC/static/NotoSansTC-Medium.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d913d05729b736468fe1cd3176f7cd6
+    m_Address: Assets/Font/Noto/Noto_Sans_JP/static/NotoSansJP-Black.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5df3f3c632eb87a46b5b76d95ba62229
+    m_Address: Assets/Font/Noto/Noto_Sans/NotoSans-Italic-VariableFont_wdth,wght.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5fb453a004abdcf4fbdb55c76c06f3c3
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_Condensed-Regular.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 622c03221cf3d9d4db076b26341df58a
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_Condensed-SemiBoldItalic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64211bdb4fe46494196a10f5290917c9
+    m_Address: Assets/Font/Noto/Noto_Sans_JP/static/NotoSansJP-Regular.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 644c8e9f7b319fb428d5f82fb172e907
+    m_Address: Assets/Font/Noto/Noto_Sans_KR/NotoSansKR-VariableFont_wght.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6471db0a3e4981d45b359244e8ff24e5
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_Condensed-ExtraBold.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6563dbd61bb536f44a12168cac9b9e2f
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/static/NotoSansArabic_Condensed-Medium.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65c974769d2cf404cb2db69043301fb0
+    m_Address: Assets/Font/Noto/Noto_Sans/NotoSans-VariableFont_wdth,wght.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 68f71016d377a184080f9d7a9cc9e075
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_ExtraCondensed-LightItalic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a003f19f8edcdb40b73d83c4c89a8a7
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_Condensed-ExtraBoldItalic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6bcb4c94f4211b140a29feda5a55ee7d
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_ExtraCondensed-Bold.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c3f41767ceba4847b4e3d568ca96c4c
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_ExtraCondensed-BoldItalic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6fd06077d38428c429f13dac431a461e
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_ExtraCondensed-Italic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7053536fe807c504290c68579891844a
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_ExtraCondensed-ExtraLight.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70f97a6576415e949b12cfc5eebc2c6a
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/static/NotoSansArabic_SemiCondensed-Light.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72bbe56663ded9d49a97470fbb597eb5
+    m_Address: Assets/Font/Noto/Noto_Sans_KR/static/NotoSansKR-SemiBold.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 749a9266c68ef1647b247a60b5299d52
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans-Light.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74dda422555c3c54bace1a61409c149a
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/static/NotoSansArabic_Condensed-Regular.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74f981c6c7685194c9e3013c95c4ec6f
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/static/NotoSansArabic_SemiCondensed-Black.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79ba5fdfe04336e4597bba2a09e5b8fa
+    m_Address: Assets/Font/Noto/Noto_Sans_KR/static/NotoSansKR-Regular.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79edd498f6a2eeb4195befcd62858d90
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/static/NotoSansArabic_Condensed-Black.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 814e2fc9c9807d54ca6a08803e68953b
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_Condensed-Thin.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8219aa5564d313c48b97b3f9ee6bc9d2
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/static/NotoSansArabic_ExtraCondensed-Thin.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84e00cdb67aacf14093c97763fc67bee
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/static/NotoSansArabic_ExtraCondensed-Regular.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8622a952510e3004f8c71e733d074f34
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans-LightItalic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 871bce11b16c2e141a9d48a06e487804
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_SemiCondensed-SemiBoldItalic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8760770f6bd7dc84aa21e1b61b080c19
+    m_Address: Assets/Font/Noto/Noto_Sans_KR/static/NotoSansKR-Bold.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 887ff32578037a943b7a6c93332abfd1
+    m_Address: Assets/Font/Noto/Noto_Sans_TC/static/NotoSansTC-Bold.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a98443397d4c4948b43487490ac2e57
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans-ExtraBold.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e62c9eaf1cec404986dc22a0ff3ed07
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/static/NotoSansArabic_ExtraCondensed-Medium.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8eae7b488bcc3af4cb45f36e79f32be4
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_SemiCondensed-Italic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8edea673cc131e145b8f842cf73a5d92
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_ExtraCondensed-SemiBold.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 94549daa51b4e434f8c564bdd3e2e143
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/static/NotoSansArabic-Thin.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96d32d5736aaa4f4ca8eb8927d9b7d8a
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_ExtraCondensed-Regular.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97c3e40a2aa012e499c0d3cb5c21d2e5
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/static/NotoSansArabic_Condensed-SemiBold.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97f2a4e61abd6c648b0a8a9e6a9ebd59
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/static/NotoSansArabic-ExtraLight.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 98f9ba265fa45b44fb2895fc1ff39036
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/static/NotoSansArabic_ExtraCondensed-SemiBold.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b16dfa4c765b8647af3a670f9d8d6a2
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans-ExtraBoldItalic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9bb61cbac9c440849a476e208e013443
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_SemiCondensed-LightItalic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ca29368280ead5469c85f27a461c16d
+    m_Address: NotoSans-SemiBold
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale-de
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d61e5d3553d9464a8894accfa343aa2
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_SemiCondensed-Bold.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9df225e0f0fd39845923fab691775647
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_ExtraCondensed-MediumItalic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a102c4740df26044daa217d5f433fc3a
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_Condensed-Black.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a19e14ec8a3aa454caabbd3b9acbe869
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_SemiCondensed-Thin.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1c2a09437959dd458886baed6a170dd
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/static/NotoSansArabic_ExtraCondensed-ExtraBold.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a20761f6fdd3a944e87336549f2ac5f5
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/static/NotoSansArabic_SemiCondensed-Regular.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a26904cd12f802a459b51492d07a4ecc
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_ExtraCondensed-ExtraLightItalic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a870efbdbdffe2149b24bc7acb9289b0
+    m_Address: Assets/Font/Noto/Noto_Sans_KR/static/NotoSansKR-Black.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab6e0ed8d61c1124195fa86b16f2cb68
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_SemiCondensed-ExtraLight.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: abe64e58e66c00940853272288918ca4
+    m_Address: Assets/Font/Noto/Noto_Sans_TC/static/NotoSansTC-Black.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aea8fa6db79c3af4b9117902306375c6
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_Condensed-BoldItalic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b08f58ec79ae5564a8348acf20f2c3ad
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_SemiCondensed-ExtraBold.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b0bbf8432de7f5f4ba6d581bcc45e0a7
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/static/NotoSansArabic_ExtraCondensed-Light.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b0ddfc7a121a6314f90f448a34dff59b
+    m_Address: Assets/Font/Noto/Noto_Sans_JP/static/NotoSansJP-SemiBold.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b51a3bc620a802340aa781aa50a97cac
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_SemiCondensed-BoldItalic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b63693c32795d8a429534a0fc5af49c7
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/static/NotoSansArabic_Condensed-Light.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8cba8ae43b96f14c9c0889aedc8c854
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_SemiCondensed-SemiBold.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9886c092d842414f87d5a6f6e0833c1
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_SemiCondensed-ExtraLightItalic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba36f92397818d94b99be47237cbd0aa
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/static/NotoSansArabic_Condensed-Bold.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bab596ebd30ca4446b2d0c590b0bdf4b
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_ExtraCondensed-Medium.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc0abd9866d30ec48948812b3606d5c0
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/static/NotoSansArabic-Regular.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc108064a4ce5204bbe4690ec2499983
+    m_Address: Assets/Font/Noto/Noto_Sans_TC/static/NotoSansTC-Thin.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd840eac3ef7c534e9812a86dbee9f36
+    m_Address: Assets/Font/Noto/Noto_Sans_KR/static/NotoSansKR-Thin.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bfd51cdf62dcebe4f83ef56b82e922ce
+    m_Address: Assets/Font/Noto/Noto_Sans_JP/static/NotoSansJP-Light.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c005c2874476cbd46bb3edd813c350d4
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/static/NotoSansArabic_SemiCondensed-Thin.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0a22b6c4882c384b971350bf160dd93
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_Condensed-Light.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c3005f44f07c00348b3171f2f4ea19e1
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans-ExtraLightItalic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c306c817ef9e153459660fed77cec3d6
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_SemiCondensed-Light.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c3c8e3dce3e0c2046841d268232f27c5
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/static/NotoSansArabic-Black.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c719f3b5a8178974bbd0f30b44e44f5b
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_ExtraCondensed-Light.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7e861a325f56b547aa7f49d0ade6dd2
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_ExtraCondensed-BlackItalic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c835430c5d503d547870dcda8d527a16
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_Condensed-BlackItalic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce1ac06da69fe23449243434f47d061b
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/static/NotoSansArabic_SemiCondensed-ExtraLight.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4274c9f422783f4ba59112408710809
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_SemiCondensed-ExtraBoldItalic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d47b2f6f907ea714eafc0c4e397c793b
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_Condensed-ThinItalic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4c0c30a10cf6b04f91a522b460aa3b0
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_ExtraCondensed-ExtraBold.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d67468513c0ee3547955f1bf9af35f13
+    m_Address: Assets/Font/Noto/Noto_Sans_TC/NotoSansTC-VariableFont_wght.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d71df66d48c9ce74995ff2097fa2cc24
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_Condensed-ExtraLightItalic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7288f56cbb620c4581c3c4bbc9e18c5
+    m_Address: Assets/Font/Noto/Noto_Sans_JP/NotoSansJP-VariableFont_wght.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d80745a2be8a3454a9a10959ee1decc5
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/NotoSansArabic-VariableFont_wdth,wght.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dbf7d60898747fd43a8d96191fcdb55d
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/static/NotoSansArabic_SemiCondensed-SemiBold.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dddc009936ce5d24c9bd329af8360cc2
+    m_Address: Assets/Font/Noto/Noto_Sans_TC/static/NotoSansTC-Light.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df0b966e185984d40a7bff41f360ccd4
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/static/NotoSansArabic_ExtraCondensed-Black.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e24120b2d00922e40bc95a301d7ab8a1
+    m_Address: Assets/Font/Noto/Noto_Sans_JP/static/NotoSansJP-ExtraLight.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5134d8b3d91efe409bd6cdb29989e46
+    m_Address: Assets/Font/Noto/Noto_Sans_JP/static/NotoSansJP-Medium.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e55b33e00ab54154fac9219a07e160e0
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/static/NotoSansArabic-Bold.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e70455babefea4b45a1e5c00b6170739
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/static/NotoSansArabic-Light.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e934dbfe5941e6a46819806678186814
+    m_Address: Assets/Font/Noto/Noto_Sans_KR/static/NotoSansKR-Light.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef022113133664040b95a2006e4c74e2
+    m_Address: Assets/Font/Noto/Noto_Sans_Arabic/static/NotoSansArabic_ExtraCondensed-Bold.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f40d18a155bae604eb45781af7914d9c
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_ExtraCondensed-ExtraBoldItalic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f74bd521ad2abd845af8ad364aae3ed0
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_SemiCondensed-ThinItalic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f99f463b4aec82f418902b641149ec33
+    m_Address: NotoSansArabic-SemiBold
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale-ar
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd7d4dc61431fc844bf62e0e9dcfa3ae
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_Condensed-ExtraLight.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fde76f6804e4c7e48bf3110e840361bd
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans-BoldItalic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: feb571310055f294d83dfd3500eb7060
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_Condensed-SemiBold.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff7d67f804c4db043a36403742b42e52
+    m_Address: Assets/Font/Noto/Noto_Sans/static/NotoSans_SemiCondensed-MediumItalic.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 24bf35b4d0d5123489f20d2f9bad95e4, type: 2}
   m_SchemaSet:

@@ -55,6 +55,7 @@ namespace RxGames.UI.ConsumerApps
                 return new Label("UXML not found");
             }
             var root = visualTree.CloneTree();
+            root.style.flexGrow = 1;
             _localizedTable = LocalizedTableBaseName + GameID;
             // Find and populate UI elements by name
             var titleLabel = root.Q<Label>("game-title-label");

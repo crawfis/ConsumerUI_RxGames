@@ -1,4 +1,3 @@
-/* Main container to center content */
 #main-container {
     display: flex;
     flex-direction: column;
@@ -6,7 +5,10 @@
     align-items: center;
     width: 100%;
     height: 100%;
+    background-image: resource('RepreatingBackground');
+    -unity-background-image-tint-color: rgb(46, 46, 53);
 }
+
 #dropdown-container {
     display: flex;
     flex-direction: row;
@@ -18,7 +20,7 @@
     margin-bottom: 20px;
     max-height: 10%;
 }
-/* Locale selection dropdown */
+
 #locale-selection-dropdown {
     font-size: 32px;
     min-width: 25%;
@@ -29,7 +31,6 @@
     height: auto;
 }
 
-/* Button container for stacking buttons */
 #button-container {
     display: flex;
     flex-direction: column;
@@ -42,52 +43,43 @@
     padding-right: 100px;
 }
 
-/* Base button style */
 .unity-button {
     -unity-font-style: bold;
     font-size: 100%;
     flex: 1 1 0;
-    /*align-self: stretch;*/
     -unity-text-align: middle-center;
     -unity-text-auto-size: bestFit 180px 640px;
     padding: 10px;
     margin: 15px;
     border-radius: 20px;
     border-width: 6px;
-    border-color: #333;
-    background-color: #1e90ff; /* default blue */
+    border-color: rgb(51, 51, 51);
+    background-color: rgb(30, 144, 255);
     color: white;
 }
 
-/* Hover effect for buttons 
-.unity-button:hover {
-    background-color: #005A9E;
-}*/
-
-/* Disabled button style */
 .unity-button:disabled {
-    background-color: #CCCCCC;
-    color: #666666;
-    border-color: #AAAAAA;
+    background-color: rgb(204, 204, 204);
+    color: rgb(102, 102, 102);
+    border-color: rgb(170, 170, 170);
 }
-/* Variants */
+
 .unity-button.primary {
-    background-color: #1e90ff;
+    background-color: rgb(30, 144, 255);
     color: white;
 }
 
 .unity-button.secondary {
-    background-color: #f0f0f0;
-    color: #222;
+    background-color: rgb(240, 240, 240);
+    color: rgb(34, 34, 34);
 }
 
-/* Hover/active (if runtime theme supports pseudo-classes) */
 .unity-button:hover {
-    background-color: #187bcd;
+    background-color: rgb(24, 123, 205);
     color: yellow;
     scale: 1.25;
 }
 
 .button:active {
-    background-color: #145a96;
+    background-color: rgb(20, 90, 150);
 }

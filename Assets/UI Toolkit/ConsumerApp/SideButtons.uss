@@ -1,0 +1,37 @@
+:root {
+}
+
+.side-buttons {
+    background-image: none;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(29, 144, 255);
+    align-content: stretch;
+    align-self: stretch;
+    align-items: stretch;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    flex-grow: 1;
+    justify-content: space-evenly;
+}
+
+.unity-button:hover {
+    background-color: rgb(24, 123, 205);
+    scale: 1.25;
+}
+
+.tooltip .tooltiptext {
+	top: -200px;
+	left: 50%;
+}
+
+.junk {
+    flex-grow: 0;
+    width: 8%;
+    height: 100%;
+    flex-shrink: 0;
+    justify-content: center;
+    align-items: center;
+}
